@@ -12,7 +12,7 @@ body {background-color: rgb(255, 255, 255);}
 }
 
     .part2 {border-color:green;
-  border-style: double;
-  border-width: 6px;
+    border-style: double;
+    border-width: 6px;
 }
-
+.part2 {margin-right: 20%;}
