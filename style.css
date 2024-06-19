@@ -4,7 +4,7 @@ body {background-color: rgb(255, 255, 255);}
    .part1 {color: rgb(55, 216, 22)}
    .part2 {color: rgb(10, 199, 95);}
    .part4 {color: rgb(123, 255, 0);}
-   .part3 {color: rgb(255, 255, 255);}
+   .part3 {color: rgb(20, 73, 3);}
 }
 @media screen and (max-width:600px) {
     body {background-color: rgb(1, 90, 5);}
