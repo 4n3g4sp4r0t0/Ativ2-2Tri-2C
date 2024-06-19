@@ -16,3 +16,8 @@ body {background-color: rgb(255, 255, 255);}
     border-width: 6px;
 }
 .part2 {margin-right: 20%;}
+
+.part1 {border-color: rgb(1, 90, 5);
+border-style: solid;
+border-width: 6px;
+}
